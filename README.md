@@ -1,12 +1,12 @@
-##🌟 Portafolio Web
+🌟 Portafolio Web
 ¡Bienvenidos al siguiente portafolio web! Este proyecto fue creado utilizando React y Vite para proporcionar una experiencia rápida y moderna.
 
-##🛠️ Tecnologías Utilizadas
+🛠️ Tecnologías Utilizadas
 -React: Biblioteca de JavaScript para construir interfaces de usuario.
 -Vite: Herramienta de construcción de Frontend que proporciona un entorno de desarrollo rápido.
 -React Router DOM: Librería para el manejo de rutas en aplicaciones de React.
 
-##🚀 Despliegue
+🚀 Despliegue
 Puedes ver el sitio en vivo en el siguiente enlace:
 
 ## Portafolio Desplegado en Vercel
@@ -16,7 +16,7 @@ https://web-site-practice-react-vite-ieqpra1sg-ceciliapradobs-projects.vercel.ap
 Para cargar y ejecutar el proyecto en tu entorno local, sigue estos pasos:
 
 ## Clona el repositorio
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/Ceciliapradob/WebSite-Practice-ReactVite
 ## Navega el directorio del proyecto 
 cd tu-repo
 ## Instala las dependencias
